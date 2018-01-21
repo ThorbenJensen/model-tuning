@@ -1,11 +1,10 @@
 """Sklearn example wit skopt."""
 
 import numpy as np
-from skopt import gbrt_minimize, forest_minimize, Optimizer
+from skopt import Optimizer
 from skopt.plots import plot_convergence
 import pandas as pd
 from pandas.plotting import parallel_coordinates
-import seaborn
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.metrics import accuracy_score
 from sklearn.model_selection import cross_val_score
