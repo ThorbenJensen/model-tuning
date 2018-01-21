@@ -37,7 +37,3 @@ opt2 = \
 
 opt2.run_optimization(max_iter=4)
 opt2.plot_acquisition()
-
-
-
-
