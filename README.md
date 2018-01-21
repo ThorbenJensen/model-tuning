@@ -1,3 +1,3 @@
 # TODOs
 
-* Use colored 'parallel coordinates plot' for multidimentional space
+* Scale up SKLEARN example to 4-6 parameters
